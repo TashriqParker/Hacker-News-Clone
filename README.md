@@ -2,11 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###To Run locally make sure yarn is installed by running through composer 
-###npm install -g yarn
+To Run locally make sure yarn is installed by running through composer 
+npm install -g yarn
 
-###then run 
-###npm start to start the server 
+then run 
+npm start to start the server 
 
 
 ## Available Scripts
